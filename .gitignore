@@ -1,0 +1,41 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle Files
+/.gradle/
+gradle.properties
+*.keystore
+# Everyone uses same Gradle version
+!gradlew
+!gradle.bat
+
+# Build output
+/build/
+/out/
+
+#IntelliJ/Android Studio Files
+/.idea/
+
+# OS Files
+*.DS_Store
+Thumbs.db
+
+# Temp Files
+*.swp
+*.swo
+
+# Log Files
+*.log
