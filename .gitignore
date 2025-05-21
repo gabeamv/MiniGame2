@@ -16,7 +16,7 @@ local.properties
 
 # Gradle Files
 /.gradle/
-gradle.properties
+!gradle.properties
 *.keystore
 # Everyone uses same Gradle version
 !gradlew
